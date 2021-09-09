@@ -18,6 +18,10 @@ namespace NorthwindBusiness
 
         public CustomerManager(ICustomerService service)
         {
+            if (service == null)
+            {
+                throw new ArgumentException("ICustomerService object cannot be null");
+            }
             _service = service;
         }
 

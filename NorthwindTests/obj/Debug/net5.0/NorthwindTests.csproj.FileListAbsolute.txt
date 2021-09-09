@@ -154,3 +154,6 @@ C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter
 C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter\NorthwindTests\obj\Debug\net5.0\ref\NorthwindTests.dll
 C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter\NorthwindTests\obj\Debug\net5.0\NorthwindTests.pdb
 C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter\NorthwindTests\obj\Debug\net5.0\NorthwindTests.genruntimeconfig.cache
+C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter\NorthwindTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter\NorthwindTests\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\h8bmf\Downloads\CustomerApp_RefactorStarter\CustomerApp_RefactorStarter\NorthwindTests\bin\Debug\net5.0\Moq.dll

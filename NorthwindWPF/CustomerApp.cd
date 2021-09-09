@@ -6,7 +6,23 @@
       <HashCode>AAAAAAABACBAAAAAAAAAAACAAAAAAAABAAAAAAAAAAA=</HashCode>
       <FileName>MainWindow.xaml.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_customerManager" />
+    </ShowAsAssociation>
     <Lollipop Position="0.2" />
   </Class>
+  <Class Name="NorthwindBusiness.CustomerManager">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NorthwindData.Services.CustomerService">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="NorthwindData.Services.ICustomerService">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
